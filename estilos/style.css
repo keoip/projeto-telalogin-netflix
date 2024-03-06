@@ -28,34 +28,38 @@ section > h2{
 }
 
 input[type=email], input[type=password]{
-    width: 90vw;
-    height: 40px;
+    width: 90%;
+    height: 50px;
     background-color: #333333;
     border: none;
     padding: 5px;
     border-radius: 10px;
+    margin: auto;
+    display: block;
 }
 
 input[type=submit]{
-    width: 92vw;
-    margin-left: 10px;
+    width: 90%;
+    margin: auto;
+    display: block;
     height: 50px;
     font-size: 1.2em;
     color: white;
     background-color: red;
     border: none;
     border-radius: 10px;
+    margin: 25px;
 }
 
 .container3 > label{
     color: #8C8C8C;
     font-size: 0.9em;
-    margin-right: 200px;
 }
 .container3 > a{
     text-decoration: none;
     color:#8C8C8C;
     font-size: 0.9em;
+    padding: 50px;
 }
 .cadastro{
     color: #8C8C8C;
