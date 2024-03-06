@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+@media screen and (min-width:768px){
+    body{
+        background-image: url('../imagens/Netflix-Background.jpg');
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+    .form{
+        background-color: rgba(0, 0, 0, 0.604);
+        width: 450px;
+        display: block;
+        margin: auto;
+    }
+
+    footer{
+        background-color: rgba(0, 0, 0, 0.775);
+        margin-top: 20px;
+    }
+
+    .container4{
+        border: none;
+    }
+}
