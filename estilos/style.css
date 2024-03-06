@@ -78,3 +78,23 @@ input[type=submit]{
 .container3{
     margin: 10px;
 }
+footer{
+    color: #615e5e;
+    padding: 10px;
+}
+td{
+    padding: 20px;
+}
+td > a{
+    text-decoration: none;
+    color: #5e5b5b;
+}
+.linha{
+    width: 100vw;
+    border-top: 3px solid rgba(255, 255, 255, 0.367);
+    padding: 10px;
+}
+::-webkit-scrollbar{
+    width: 0;
+    height: 0;
+}
